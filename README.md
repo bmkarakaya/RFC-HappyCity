@@ -14,4 +14,8 @@ Our dataset is a data set where individuals rate the city they live in on a scal
 
 To better understand the relationships between the variables, I used a correlation heatmap, correlation matrix, and OLS regression methods. Afterward, I built my machine learning model. I kept the test size at 20%. Finally, I used the confusion matrix to measure the performance of the model.
 
+Thank you for your review. :)
+
 The link to the dataset I used:  https://www.kaggle.com/datasets/priyanshusethi/happiness-classification-dataset
+
+(Additionally, I have also uploaded the dataset here.)
